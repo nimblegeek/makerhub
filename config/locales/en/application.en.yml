@@ -1,11 +1,11 @@
 en:
   application:
-    name: Untitled Application
+    name: Maker Hub
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
+    keywords: maker hub seo keywords
     support_email: change.me@localhost
-    key: untitled_application
+    key: maker_hub
   webhooks/outgoing/endpoints:
     fields:
       api_version:
